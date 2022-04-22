@@ -4,6 +4,6 @@ tymsa base de datos
 
 Database
 
-Cargando la DB 
+Cargando la DataBase2 
 
 La base de datos está lista
