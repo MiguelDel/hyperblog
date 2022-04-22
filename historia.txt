@@ -4,4 +4,6 @@ tymsa base de datos
 
 Database
 
+Cargando la DB 
+
 La base de datos está lista
