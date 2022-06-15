@@ -2,4 +2,4 @@ Esta es la base de datos de tymsa
 
 tymsa base de datos
 
-Database6
+Database
