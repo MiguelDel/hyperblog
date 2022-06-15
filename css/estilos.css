@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-body{
-    color: aqua;
-    text-align: center;
-    font-family: "Arial";
-=======
 body {
-    color: rgb(180, 190, 190);
+    color: blue;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -38,5 +32,4 @@ body {
 #container h1
 {
     font-size: 20px;
->>>>>>> cabecera
 }
