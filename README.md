@@ -7,5 +7,6 @@ Un blog para el curso de Git y Github en Platzi
 - El verdadero amor por las buenas practicas
 - Creado por Miguel Delgadillo
 - Incluye ejemplos
+- Disponible
 Este es el **readme.md** que he creado y [**este es mi hyperblog**][123]
 [123]: http://https://github.com/MiguelDel/hyperblog "hyperblog"
